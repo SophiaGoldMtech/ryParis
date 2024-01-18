@@ -3,6 +3,11 @@ body {
   padding: 0;
 }
 nav {
-  display: flex;
   background-color: #f1a536;
+  display: flex;
+  justify-content: space-between;
+}
+#navbar {
+  display: flex;
+  list-style-type: none;
 }
