@@ -4,10 +4,22 @@ body {
 }
 nav {
   background-color: #f1a536;
+  width: 100vw;
+}
+#nav-container {
   display: flex;
   justify-content: space-between;
+  width: 90%;
+  margin: 0 auto;
+  padding: 15px 0px 10px 0px;
 }
-#navbar {
+#nav-bar {
   display: flex;
   list-style-type: none;
+}
+.nav-link {
+  text-decoration: none;
+  padding: 20px;
+  font-size: 20px;
+  color: #000;
 }
