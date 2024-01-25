@@ -157,7 +157,7 @@ span {
   flex-direction: column;
   justify-content: center;
   align-items: center;
-  padding: 75px;
+  padding: 75px 0;
 }
 .stars i {
   color: #a63223;
@@ -212,10 +212,27 @@ button {
   font-weight: 600;
   padding: 30px 190px;
 }
+.instructions {
+}
+.instructions h3 {
+  font-size: 40px;
+  font-weight: 800;
+}
+.instructions li {
+  font-size: 25px;
+}
 .ingredients {
-  width: 50%;
+  width: 40%;
+  text-align: start;
 }
 .directions {
-  width: 50%;
+  width: 40%;
+  text-align: start;
 }
-li
+.directions li {
+  padding: 10px 0;
+}
+.instructions h4 {
+  font-size: 25px;
+  margin-bottom: 0;
+}
