@@ -212,3 +212,10 @@ button {
   font-weight: 600;
   padding: 30px 190px;
 }
+.ingredients {
+  width: 50%;
+}
+.directions {
+  width: 50%;
+}
+li
