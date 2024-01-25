@@ -1,0 +1,113 @@
+commit 7b3c1cb3f45a9866197499c04ee389bbc565d9f7
+Author: Sophia Gold <Sophia.gold2920@stu.mtec.edu>
+Date:   Thu Jan 25 10:24:45 2024 -0700
+
+    adjust error
+
+commit 25bb0d84a44aa168582ec97224b2276670c6c45f
+Author: Sophia Gold <Sophia.gold2920@stu.mtec.edu>
+Date:   Thu Jan 25 10:23:24 2024 -0700
+
+    Finishing up project
+
+commit 06d51864ce408c05043324e568158a3cef3edd58
+Author: Sophia Gold <Sophia.gold2920@stu.mtec.edu>
+Date:   Thu Jan 25 10:05:28 2024 -0700
+
+    adding instructions
+
+commit 86de2f456cac8ddc74fb3804f6a1a546fa61e506
+Author: Sophia Gold <Sophia.gold2920@stu.mtec.edu>
+Date:   Thu Jan 25 09:51:56 2024 -0700
+
+    fixing up review
+
+commit 8b9589d6388d3d3e25996c4e6f06ad623886f3ba
+Author: Sophia Gold <Sophia.gold2920@stu.mtec.edu>
+Date:   Thu Jan 25 09:43:05 2024 -0700
+
+    add review text
+
+commit 5479d0f20dbfbe698e6ecbc3092dbbb2a276b114
+Author: Sophia Gold <Sophia.gold2920@stu.mtec.edu>
+Date:   Thu Jan 25 09:37:39 2024 -0700
+
+    bengal burger review completed
+
+commit 2369c8bb5397bc8a573554debd9e409f7c9b6a9d
+Author: Sophia Gold <Sophia.gold2920@stu.mtec.edu>
+Date:   Thu Jan 25 09:02:28 2024 -0700
+
+    css html additions
+
+commit d985bed293d246fe3c5398fd013d3cdabd72030d
+Author: Sophia Gold <Sophia.gold2920@stu.mtec.edu>
+Date:   Wed Jan 24 15:03:10 2024 -0700
+
+    add star ratings
+
+commit caa0986a888beb31162282b9cda703569c92c367
+Author: Sophia Gold <Sophia.gold2920@stu.mtec.edu>
+Date:   Wed Jan 24 14:56:11 2024 -0700
+
+    Hero through google review on second page
+
+commit 12cb9ee8d840febb5dfac8f4b1f3ce1122fea98a
+Author: Sophia Gold <Sophia.gold2920@stu.mtec.edu>
+Date:   Wed Jan 24 10:37:45 2024 -0700
+
+    adding header to recipe page
+
+commit c3cf84662739363bfdabd999a74790ad14c7cbe9
+Author: Sophia Gold <Sophia.gold2920@stu.mtec.edu>
+Date:   Wed Jan 24 10:29:52 2024 -0700
+
+    Most of the main content as well as making css classes to apply styling multiple places
+
+commit 78c41b51077588143b5c6b8c1936e9dbd1e5aed4
+Author: Sophia Gold <Sophia.gold2920@stu.mtec.edu>
+Date:   Thu Jan 18 11:36:08 2024 -0700
+
+    Font change
+
+commit 9fb0b024f6dc115a9c6ba57f77ade05f52891c43
+Author: Sophia Gold <Sophia.gold2920@stu.mtec.edu>
+Date:   Thu Jan 18 11:34:31 2024 -0700
+
+    nav bar styling
+
+commit 952e9a7a6637b40300bedaaf48215d9d38efb2c7
+Author: Sophia Gold <Sophia.gold2920@stu.mtec.edu>
+Date:   Thu Jan 18 10:27:30 2024 -0700
+
+    Styling nav links
+
+commit 6a7ae251ea0b92f02cdbc3be1ad78eccc51bdbc4
+Author: Sophia Gold <Sophia.gold2920@stu.mtec.edu>
+Date:   Thu Jan 18 10:19:16 2024 -0700
+
+    linking css and adding nav styling
+
+commit f1fb43bae6279b16c019616ee50eb0c17fa4143c
+Author: Sophia Gold <Sophia.gold2920@stu.mtec.edu>
+Date:   Thu Jan 18 10:02:43 2024 -0700
+
+    Putting HTML on wrong file oops
+
+commit 1e932881979d5bb47caee0db4fe1090c93184948
+Author: Sophia Gold <Sophia.gold2920@stu.mtec.edu>
+Date:   Thu Jan 18 09:56:52 2024 -0700
+
+    add logo, remove navigations
+
+commit c5c2a19d3c787847c9c072376ab1b54bd72210a6
+Author: Sophia Gold <Sophia.gold2920@stu.mtec.edu>
+Date:   Thu Jan 18 07:47:10 2024 -0700
+
+    Links for navigation purposes
+
+commit 76dd15c9427aa13d4d750769c4ee3af2cce68e7c
+Author: Sophia Gold <Sophia.gold2920@stu.mtec.edu>
+Date:   Thu Jan 18 07:44:07 2024 -0700
+
+    initial commit
