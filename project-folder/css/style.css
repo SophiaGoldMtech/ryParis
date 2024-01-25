@@ -200,3 +200,7 @@ button {
   padding: 10px 12px;
   margin-left: 20px;
 }
+.reviewTxt {
+  background-color: #edf0f4;
+  color: #575656;
+}
