@@ -203,4 +203,12 @@ button {
 .reviewTxt {
   background-color: #edf0f4;
   color: #575656;
+  padding: 0;
+  margin-top: 40px;
+}
+.reviewTxt p {
+  text-align: center;
+  font-size: 35px;
+  font-weight: 600;
+  padding: 30px 190px;
 }
