@@ -157,8 +157,9 @@ span {
   flex-direction: column;
   justify-content: center;
   align-items: center;
+  padding: 75px;
 }
-i {
+.stars i {
   color: #a63223;
 }
 .review {
@@ -166,9 +167,36 @@ i {
   align-items: center;
 }
 .bengal h1 {
-  font-size: 50px;
+  font-size: 55px;
   font-weight: 900;
 }
 .review p {
   font-size: 20px;
+  font-weight: 500;
+}
+.stars {
+  padding: 10px;
+  font-size: 20px;
+}
+.submit {
+  display: flex;
+  padding: 10px;
+}
+button {
+  background-color: #a63223;
+  padding: 15px 30px;
+  color: white;
+  border-radius: 40px;
+  border: none;
+  font-size: 20px;
+}
+.print {
+  border: 2px solid grey;
+  border-radius: 50%;
+  color: grey;
+  width: fit-content;
+  height: fit-content;
+  font-size: 30px;
+  padding: 10px 12px;
+  margin-left: 20px;
 }
